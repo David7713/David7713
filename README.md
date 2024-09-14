@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Frontend developer from Armenia</h3>
+<h3 align="center">Frontend Developer from Armenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david7713&label=Profile%20views&color=0e75b6&style=flat" alt="david7713" /> </p>
 
-- 💬 Ask me about **React, JS, HTML, CSS, Redux**
+- 💬 Ask me about **React, JS, HTML, CSS, Redux, Node.js, Express.js, MySQL, TypeScript**
 
 - 📫 How to reach me: **Davo00771339@gmail.com**
 
@@ -44,6 +44,18 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
 
